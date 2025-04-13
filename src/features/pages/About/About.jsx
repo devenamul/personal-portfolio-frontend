@@ -298,11 +298,7 @@ const About = () => {
                                        <i className="fa-solid fa-star-sharp"></i>
                                        <i className="fa-solid fa-star-sharp"></i>
                                     </span>
-                                    <p className="mb-30">Sit amet luctussd fav venenatis, lectus
-                                       magna fringilla inis urna,  porttitor rho
-                                       ncus dolor puru non enim praesent
-                                       in elementum sahasho facilisis leo
-                                       vel fringilla est ullamcorpero</p>
+                                    <p className="mb-30">Outstanding experience! He delivered my React project on time with clean code. Communication was smooth, and I’ll definitely hire him again for future web development tasks</p>
                                     <div className="tp-about-testimonial-avatar-wrap d-flex align-items-center">
                                        <img className="rounded-circle tp-about-testimonial-avatar mr-15" src="/img/testimonial/avatar.png" alt=""/>
                                        <p className="tp-about-testimonial-name">Olivia Pitter at Fiverr</p>
@@ -318,14 +314,10 @@ const About = () => {
                                        <i className="fa-solid fa-star-sharp"></i>
                                        <i className="fa-solid fa-star-sharp"></i>
                                     </span>
-                                    <p className="mb-30">Sit amet luctussd fav venenatis, lectus
-                                       magna fringilla inis urna,  porttitor rho
-                                       ncus dolor puru non enim praesent
-                                       in elementum sahasho facilisis leo
-                                       vel fringilla est ullamcorpero</p>
+                                    <p className="mb-30">Very professional and responsive developer. He built my Node.js backend exactly as I wanted. Quick delivery and high-quality service. Highly recommended</p>
                                     <div className="tp-about-testimonial-avatar-wrap d-flex align-items-center">
                                        <img className="rounded-circle tp-about-testimonial-avatar mr-15" src="/img/testimonial/avatar-2.png" alt=""/>
-                                       <p className="tp-about-testimonial-name">Md Harun <span>/ Designer</span></p>
+                                       <p className="tp-about-testimonial-name">Md Harun At upwoek</p>
                                     </div>
                                  </div>
                               </div>
@@ -338,14 +330,10 @@ const About = () => {
                                        <i className="fa-solid fa-star-sharp"></i>
                                        <i className="fa-solid fa-star-sharp"></i>
                                     </span>
-                                    <p className="mb-30">Sit amet luctussd fav venenatis, lectus
-                                       magna fringilla inis urna,  porttitor rho
-                                       ncus dolor puru non enim praesent
-                                       in elementum sahasho facilisis leo
-                                       vel fringilla est ullamcorpero</p>
+                                    <p className="mb-30">Excellent work! He quickly understood the project requirements and created a pixel-perfect front end. Would love to work with him again. Five stars service!</p>
                                     <div className="tp-about-testimonial-avatar-wrap d-flex align-items-center">
                                        <img className="rounded-circle tp-about-testimonial-avatar mr-15" src="/img/testimonial/avatar.png" alt=""/>
-                                       <p className="tp-about-testimonial-name">Belal Chandra<span>/ Designer</span></p>
+                                       <p className="tp-about-testimonial-name">Belal Chandra At fiver</p>
                                     </div>
                                  </div>
                               </div>
@@ -358,14 +346,10 @@ const About = () => {
                                        <i className="fa-solid fa-star-sharp"></i>
                                        <i className="fa-solid fa-star-sharp"></i>
                                     </span>
-                                    <p className="mb-30">Sit amet luctussd fav venenatis, lectus
-                                       magna fringilla inis urna,  porttitor rho
-                                       ncus dolor puru non enim praesent
-                                       in elementum sahasho facilisis leo
-                                       vel fringilla est ullamcorpero</p>
+                                    <p className="mb-30">A true expert in MERN stack. He handled the full project from start to finish flawlessly. Always available for communication. Really impressed with the result!</p>
                                     <div className="tp-about-testimonial-avatar-wrap d-flex align-items-center">
                                        <img className="rounded-circle tp-about-testimonial-avatar mr-15" src="/img/testimonial/avatar-2.png" alt=""/>
-                                       <p className="tp-about-testimonial-name">Olivia Pitter <span>/ Designer</span></p>
+                                       <p className="tp-about-testimonial-name">Olivia Pitter At fiverr</p>
                                     </div>
                                  </div>
                               </div>
