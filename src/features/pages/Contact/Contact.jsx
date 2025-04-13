@@ -3,7 +3,7 @@ import Footer from "../../compnent/Footer/Footer"
 import Header from "../../compnent/Header/Header"
 import "./Contact.css"
 import { useDispatch} from "react-redux"
-import { createContactData } from "./contactApi"
+import { createContactData } from "./ContactApi"
 
 import Swal from 'sweetalert2';
 
