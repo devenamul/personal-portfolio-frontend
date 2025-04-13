@@ -1,6 +1,7 @@
 import { createSlice } from "@reduxjs/toolkit";
 import { createContactData } from "./contactApi";
 
+
 // Initial state
 const initialState = {
     contacts: [],
