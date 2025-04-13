@@ -1,5 +1,5 @@
 import { createSlice } from "@reduxjs/toolkit";
-import { createContactData } from "./ContactApi.js";
+import { createContactData } from "./ContactApi";
 
 
 // Initial state
