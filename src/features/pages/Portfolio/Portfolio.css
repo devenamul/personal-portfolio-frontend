@@ -1,0 +1,110 @@
+
+  .portfolio-post-top-heading{
+    font-size: 3rem;
+    letter-spacing: 0.02em;
+    color: var(--tp-theme-secondary);
+    background: transparent;
+    border-bottom: 1px solid var(--tp-theme-secondary);
+    padding-bottom: .5rem;
+    display: inline-block; 
+  }
+
+    .portfolio-item {
+      display: none;
+    }
+    .portfolio-item.show {
+      display: block;
+    }
+    .filter-btn {
+      cursor: pointer;
+    }
+    .project-info-img{}
+
+    .project-info{
+        background-color:#1e1e1e;
+        border: 1px solid rgba(255, 255, 255, 0.2);
+
+    }
+
+    .project-info-name{
+        color: #fff;
+    }
+
+    .portfolio-button{
+       position: relative;
+       font-weight: 500;
+       font-size: 1rem; /* 16px */
+       letter-spacing: 0.02em;
+       color: var(--tp-theme-secondary);
+       background: transparent;
+       border: none;
+       transition: color 0.3s ease;
+    }
+    .portfolio-button::after{
+       content: '';
+       position: absolute;
+       left: 0;
+       bottom: 0;
+       height: 0.125rem; /* 2px */
+       width: 0%;
+       background-color: var(--tp-theme-secondary);
+       transition: width 0.3s ease;
+     }
+     .portfolio-button:hover:after {
+       width: 100%;
+    }
+
+    .portfolio-button:hover {
+      color: var(--tp-theme-secondary);
+      background-color: transparent;
+      
+    }
+
+    /* ************** all hover effect start ************************/
+
+    .html-relation {
+       position: relative;
+       z-index: 0;
+    }
+
+    .html-relation img {
+    width: 100%;
+    height: auto;
+    display: block;
+    }
+
+    /* Overlay div */
+    .html-absolute {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%; /* Same height as parent */
+    background-color: rgba(0, 0, 0, 0.8);
+    opacity: 0;
+    visibility: hidden;
+    transition: all 0.3s ease-in-out;
+    z-index: 1;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    }
+
+    .html-relation:hover .html-absolute {
+    opacity: 1;
+    visibility: visible;
+    }
+
+    .portfolio-button:focus{
+      background-color: transparent !important;
+    }
+
+    /* ****************all hover effect end *************************/
+    @media (max-width: 504px) {
+.portfolio-fulter-button {
+display: flex;
+flex-wrap: wrap;
+}
+}

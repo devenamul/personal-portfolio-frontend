@@ -1,0 +1,24 @@
+.tp-mobile-menu-active {
+    display: block !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+  }
+  
+  .custom-swal-popup {
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-radius: 4px;
+  }
+  
+  .custom-cancel-button {
+    background-color: #fff !important;
+    color: black !important;
+  }
+
+  .signIn-signUp-offcanvas-btn{
+    display: none !important;
+ }
+ @media (max-width:575px){
+    .signIn-signUp-offcanvas-btn{
+    display: block !important;
+ }
+ }

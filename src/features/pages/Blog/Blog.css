@@ -1,0 +1,75 @@
+
+.signIn-signUp-offcanvas-btn{
+    display: none !important;
+ }
+@media (max-width:575px){
+    .signIn-signUp-offcanvas-btn{
+    display: block !important;
+ }
+ }
+
+.blog-section .single-post {
+background-color: transparent;
+border: none;
+margin-bottom: 70px;
+}
+.content-date {
+border: 1px solid rgba(255, 255, 255, 0.2);
+background-color: #009e66;
+color: #fff;
+}
+.blog-post-top-heading {
+font-size: 3rem;
+letter-spacing: 0.02em;
+color: var(--tp-theme-secondary);
+background: transparent;
+border-bottom: 1px solid var(--tp-theme-secondary);
+padding-bottom: .5rem;
+display: inline-block; 
+}
+
+.blog-card{
+border: 1px solid rgba(255, 255, 255, 0.2);
+border-radius: 4px;
+backdrop-filter: blur(40px);
+background-color: #1b1b1b;
+}
+.blog-post-pra{
+
+display: -webkit-box;
+-webkit-line-clamp: 4; 
+-webkit-box-orient: vertical;
+overflow: hidden;
+text-overflow: ellipsis;
+}
+.card-button {
+ position: relative;
+ font-weight: 500;
+ font-size: 1rem; /* 16px */
+ letter-spacing: 0.02em;
+ color: var(--tp-theme-secondary);
+ text-decoration: none;
+ display: inline-block;
+ background: transparent;
+ border: none;
+ transition: color 0.3s ease;
+}
+
+.card-button::after {
+ content: '';
+ position: absolute;
+ left: 0;
+ bottom: 0;
+ height: 0.125rem; /* 2px */
+ width: 0%;
+ background-color: var(--tp-theme-secondary);
+ transition: width 0.3s ease;
+}
+
+.card-button:hover::after {
+ width: 100%;
+}
+
+.card-button:hover {
+ color: var(--tp-theme-secondary);
+}
