@@ -80,8 +80,8 @@ const Portfolio = () => {
                 <img src="/img/portfolio/react-1.png" className=" w-100 h-100 img-fluid project-info-img" alt="React Project 1"/>
                 <div className="html-absolute d-flex justify-content-center flex-column align-items-center">
                   <h4 className="project-info-name text-center mt-2">React Project</h4>
-                  <Link target="_blank" to="#" className="project-info-preview portfolio-button d-block mt-2 text-decoration-none">Preview this project</Link>
-                  <Link target="_blank" to="https://github.com/devenamul/personal-portfolio" className="project-info-githublink portfolio-button d-block mt-2 text-decoration-none">See gitHub link</Link>   
+                  <Link target="_blank" to="https://personal-portfolio-frontend-two.vercel.app/" className="project-info-preview portfolio-button d-block mt-2 text-decoration-none">Preview this project</Link>
+                  <Link target="_blank" to="https://github.com/devenamul/personal-portfolio-frontend" className="project-info-githublink portfolio-button d-block mt-2 text-decoration-none">See gitHub link</Link>   
                 </div>
               </div>
 
