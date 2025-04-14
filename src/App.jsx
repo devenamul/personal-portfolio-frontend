@@ -8,6 +8,7 @@ import Blog from './features/pages/Blog/Blog';
 import Portfolio from './features/pages/Portfolio/Portfolio';
 import Contact from './features/pages/Contact/Contact';
 import Loader from './features/compnent/Loder/Loader';
+import SinglePage from './features/pages/SinglePage/SinglePage';
 
 
 function AppContent() {
@@ -40,6 +41,7 @@ function AppContent() {
           <Route path='/blog' element={<Blog />} />
           <Route path='/portfolio' element={<Portfolio />} />
           <Route path='/contact' element={<Contact />} />
+          <Route path='/blog/:id' element={<SinglePage />} />
         </Routes>
       )}
     </>

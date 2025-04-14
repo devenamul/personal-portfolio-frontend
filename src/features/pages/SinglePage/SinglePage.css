@@ -1,0 +1,29 @@
+.singleBlogImg {
+    width: 100%;
+    height: 32rem;
+    object-fit: cover;
+    object-position: center center; 
+    border-radius: 10px;
+  }
+  
+  .date-btn {
+    position: relative;
+       font-weight: 500;
+       font-size: 1rem; 
+       letter-spacing: 0.02em;
+       color: var(--tp-theme-secondary);
+       background: transparent;
+       border: none;
+       transition: color 0.3s ease;
+  }
+  
+  .blog-text h3 {
+    margin-top: 10px;
+    font-weight: bold;
+  }
+  
+  .blog-text p {
+    text-align: justify;
+    color: #f1f1f1;
+  }
+  

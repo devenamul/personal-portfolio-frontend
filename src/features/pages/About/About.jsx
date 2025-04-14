@@ -183,7 +183,7 @@ const About = () => {
                         <h3 className="tp-home-2-title mb-10">Education</h3>
                         <span className="tp-home-2-border mb-30"></span>
                         <div className="tp-home-2-expreance-item mb-25 d-flex">
-                           <span className="tp-home-expreance-2-year mr-40">2021 - 202</span>
+                           <span className="tp-home-expreance-2-year mr-40">2021 - 2025</span>
                            <div className="tp-home-2-expreance-content">
                               <h6 className="tp-home-2-title mb-0">Bachelor degree in CSE</h6>
                               <span className="tp-home-2-expreance-subtitle">DIU at Dhaka</span>
@@ -227,7 +227,7 @@ const About = () => {
                                  <path d="M6.74157 20V10.8777H9.80231L10.2615 7.32156H6.74157V5.05147C6.74157 4.0222 7.02622 3.32076 8.50386 3.32076L10.3854 3.31999V0.13923C10.06 0.0969453 8.94308 0 7.64308 0C4.92848 0 3.07002 1.65697 3.07002 4.69927V7.32156H0V10.8777H3.07002V20H6.74157Z" fill="#D2D2D2" />
                               </svg>
                            </a>
-                           <a href="https://www.instagram.com/smenamulhaque23/profilecard/?igsh=MjB0dnJvYWFjMnQ2" target="_blank" rel="noopener noreferrer" className="tp-home-social-icon">
+                           <a  href="https://www.instagram.com/smenamulhaque23/profilecard/?igsh=MjB0dnJvYWFjMnQ2" target="_blank" rel="noopener noreferrer" className="tp-home-social-icon">
                               <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
                                  <path d="M14.5862 0H5.41382C2.42859 0 0 2.42859 0 5.41382V14.5863C0 17.5714 2.42859 20 5.41382 20H14.5863C17.5714 20 20 17.5714 20 14.5863V5.41382C20 2.42859 17.5714 0 14.5862 0ZM18.8275 14.5863C18.8275 16.9249 16.9249 18.8275 14.5862 18.8275H5.41382C3.0751 18.8275 1.17249 16.9249 1.17249 14.5863V5.41382C1.17249 3.0751 3.0751 1.17249 5.41382 1.17249H14.5863C16.9249 1.17249 18.8275 3.0751 18.8275 5.41382V14.5863Z" fill="#D2D2D2" />
                                  <path d="M9.99985 4.53139C6.98441 4.53139 4.53125 6.98454 4.53125 9.99998C4.53125 13.0154 6.98441 15.4686 9.99985 15.4686C13.0153 15.4686 15.4684 13.0154 15.4684 9.99998C15.4684 6.98454 13.0153 4.53139 9.99985 4.53139ZM9.99985 14.2961C7.63107 14.2961 5.70374 12.3689 5.70374 9.99998C5.70374 7.63121 7.63107 5.70387 9.99985 5.70387C12.3688 5.70387 14.296 7.63121 14.296 9.99998C14.296 12.3689 12.3688 14.2961 9.99985 14.2961Z" fill="#D2D2D2" />
@@ -262,7 +262,7 @@ const About = () => {
                               <div className="tp-home-2-big-years-wrap-2 h-100">
                                  <h3 className="tp-home-2-title mb-10"> My CV</h3>
                                  <span className="tp-home-2-border mb-50"></span>
-                                 <a href="#" className="tp-btn-2 mb-5 w-100 d-flex justify-content-between">
+                                 <a href="/public/img/resume/resume.pdf" target='_blanck' rel='noopener noreferrer' className="tp-btn-2 mb-5 w-100 d-flex justify-content-between">
                                     View
                                     <span>
                                        <svg width="12" height="10" viewBox="0 0 12 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -271,7 +271,7 @@ const About = () => {
                                        </svg>
                                     </span>
                                  </a>
-                                 <a href="/files/resume.pdf" download className="download tp-btn-2 w-100 d-flex justify-content-between">
+                                 <a href="/public/img/resume/resume.pdf" download className="download tp-btn-2 w-100 d-flex justify-content-between">
                                     Download
                                     <span>
                                        <svg width="12" height="10" viewBox="0 0 12 10" fill="none" xmlns="http://www.w3.org/2000/svg">
