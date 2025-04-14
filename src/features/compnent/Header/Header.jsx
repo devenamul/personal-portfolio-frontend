@@ -115,8 +115,8 @@ const Header = () => {
                <div className="tp-offcanvas-contact">
                   <h3 className="tp-offcanvas-title fs-20">My Information</h3>
                   <ul>
-                     <li><a href="tel:1245654">+01960233363</a></li>
-                     <li><a href="mailto:hello@heikoinfo.com">engenamul2@gmail.com</a></li>
+                     <li><a href="tel:1245654">+8801960233363</a></li>
+                     <li><a href="engenamul2@gmail.com">engenamul2@gmail.com</a></li>
                      <li><a href="#">Uttar Badda, Dhaka</a></li>
                   </ul>
                </div>
