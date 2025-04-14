@@ -262,7 +262,7 @@ const About = () => {
                               <div className="tp-home-2-big-years-wrap-2 h-100">
                                  <h3 className="tp-home-2-title mb-10"> My CV</h3>
                                  <span className="tp-home-2-border mb-50"></span>
-                                 <a href="/public/img/resume/resume.pdf" target='_blanck' rel='noopener noreferrer' className="tp-btn-2 mb-5 w-100 d-flex justify-content-between">
+                                 <a href="/img/resume/resume.pdf" target='_blanck' rel='noopener noreferrer' className="tp-btn-2 mb-5 w-100 d-flex justify-content-between">
                                     View
                                     <span>
                                        <svg width="12" height="10" viewBox="0 0 12 10" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -271,7 +271,7 @@ const About = () => {
                                        </svg>
                                     </span>
                                  </a>
-                                 <a href="/public/img/resume/resume.pdf" download className="download tp-btn-2 w-100 d-flex justify-content-between">
+                                 <a href="/img/resume/resume.pdf" download className="download tp-btn-2 w-100 d-flex justify-content-between">
                                     Download
                                     <span>
                                        <svg width="12" height="10" viewBox="0 0 12 10" fill="none" xmlns="http://www.w3.org/2000/svg">
