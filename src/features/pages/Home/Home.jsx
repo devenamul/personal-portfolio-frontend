@@ -102,8 +102,8 @@ const Home = () => {
                               <div className="text-center mb-40">
                                  <img src="/img/blog/blog.png" alt=""/>
                               </div>
-                              <h2 className="tp-home-title fw-500 tp-text-common-white mb-10"><a className="underline-white" href="/blog">Tesla net worth</a></h2>
-                              <span className="tp-home-subtitle">BLOG</span>
+                              <h2 className="tp-home-title fw-500 tp-text-common-white mb-10"><a className="underline-white" href="/blog">Website Related Blog</a></h2>
+                              <span className="tp-home-subtitle">Read More</span>
                            </div>
                         </div>
                      </div>
